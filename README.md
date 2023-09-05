@@ -55,9 +55,7 @@ jupyter-lab --ip 10.10.10.X  (Where X is the last two digits that you observed b
 
 # oneAPI Samples
 
-The oneAPI-samples repository contains samples for the [Intel® oneAPI Toolkits](https://www.intel.com/content/www/us/en/developer/tools/oneapi/toolkits.html).
-
-The contents of the default branch in this repository are meant to be used with the most recent released version of the Intel® oneAPI Toolkits.
+Beginners can start with **DirectProgramming/C++SYCL/Jupyter/oneapi-essentials-training**
 
 ## Find oneAPI Samples
 
