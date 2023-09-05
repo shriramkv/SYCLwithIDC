@@ -49,7 +49,7 @@ jupyter-lab --ip 10.10.10.X  (Where X is the last two digits that you observed b
 16.	Open a local browser and type the following in the address bar: http://localhost:8888/lab
 
 17.	In the preceding screen you will be asked for a token. This can be found in the first powershell instance on the 6th last line.
-18.	Once done, clone this directory! That's it you can learn SYCL !! The command to do the same is - **git clone https://github.com/oneapi-src/oneAPI-samples.git**
+18.	Once done, clone this directory! That's it you can learn SYCL !! The command to do the same is - **git clone https://github.com/shriramkv/SYCLwithIDC**
 19.	The above command has to be issued fromt the Jupyter Notebook. 
 
 
