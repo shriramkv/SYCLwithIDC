@@ -100,5 +100,5 @@ This will get the batch node activated! You will see this clearly in the powersh
 
 <a href="https://jupyter.oneapi.devcloud.intel.com/user/u184713/lab/tree/oneAPI_Essentials/"><img src="https://github.com/shriramkv/SYCLwithIDC/assets/72274851/7cb7b880-9f4e-40bf-8792-7745b38c1fb0" height="90" width="90"></a>
 
-**Link:- https://jupyter.oneapi.devcloud.intel.com/user/u184713/lab/tree/oneAPI_Essentials/
-**
+#### Link:- https://jupyter.oneapi.devcloud.intel.com/user/u184713/lab/tree/oneAPI_Essentials/
+
