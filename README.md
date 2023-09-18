@@ -96,9 +96,4 @@ This will get the batch node activated! You will see this clearly in the powersh
 ### 19.	The above command has to be issued from the Jupyter Notebook. 
 
 
-# Where to start SYCL? <img src="https://github.com/shriramkv/SYCLwithIDC/assets/72274851/d922b9f5-8b1e-4052-a99c-7d462f36c05b" height="50" width="50">
-
-<a href="https://jupyter.oneapi.devcloud.intel.com/user/u184713/lab/tree/oneAPI_Essentials/"><img src="https://github.com/shriramkv/SYCLwithIDC/assets/72274851/7cb7b880-9f4e-40bf-8792-7745b38c1fb0" height="90" width="90"></a>
-
-#### Link:- https://jupyter.oneapi.devcloud.intel.com/user/u184713/lab/tree/oneAPI_Essentials/
 
